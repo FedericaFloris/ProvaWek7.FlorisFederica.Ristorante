@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaWek7.FlorisFederica.Ristorante.Core", "ProvaWek7.FlorisFederica.Ristorante.Core\ProvaWek7.FlorisFederica.Ristorante.Core.csproj", "{E7198EA4-2E5F-42C1-930E-DDE3D05C0509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaWek7.FlorisFederica.Ristorante.RepositoryEF", "ProvaWek7.FlorisFederica.Ristorante.RepositoryEF\ProvaWek7.FlorisFederica.Ristorante.RepositoryEF.csproj", "{5E19D700-E402-433D-A498-69F84C2C270D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaWek7.FlorisFederica.Ristorante.MVC", "ProvaWek7.FlorisFederica.Ristorante.MVC\ProvaWek7.FlorisFederica.Ristorante.MVC.csproj", "{8EED1322-572E-4947-840C-BC2F70EE3A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7198EA4-2E5F-42C1-930E-DDE3D05C0509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7198EA4-2E5F-42C1-930E-DDE3D05C0509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7198EA4-2E5F-42C1-930E-DDE3D05C0509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7198EA4-2E5F-42C1-930E-DDE3D05C0509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E19D700-E402-433D-A498-69F84C2C270D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E19D700-E402-433D-A498-69F84C2C270D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E19D700-E402-433D-A498-69F84C2C270D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E19D700-E402-433D-A498-69F84C2C270D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EED1322-572E-4947-840C-BC2F70EE3A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EED1322-572E-4947-840C-BC2F70EE3A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EED1322-572E-4947-840C-BC2F70EE3A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EED1322-572E-4947-840C-BC2F70EE3A22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2E05132-0A36-4BC2-9209-B35BF23CB40F}
+	EndGlobalSection
+EndGlobal
